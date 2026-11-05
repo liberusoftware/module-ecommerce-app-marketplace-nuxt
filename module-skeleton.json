@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-app-marketplace-nuxt",
+  "capabilityKey": "planned:ecommerce:app-marketplace",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-app-marketplace-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/app-marketplace.md",
+  "presentationPlan": "projects/ecommerce/nuxt/app-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
